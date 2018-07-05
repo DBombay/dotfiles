@@ -9,7 +9,6 @@ module.exports = {
     'dos2unix',
     // Install GNU `find`, `locate`, `updatedb`, and `xargs`, `g`-prefixed
     'findutils',
-    'fortune',
     'readline', // ensure gawk gets good readline
     'gawk',
     // http://www.lcdf.org/gifsicle/ (because I'm a gif junky)
@@ -45,7 +44,7 @@ module.exports = {
   cask: [
     //'adium',
     //'amazon-cloud-drive',
-    //'atom',
+    'atom',
     // 'box-sync',
     //'comicbooklover',
     //'diffmerge',
